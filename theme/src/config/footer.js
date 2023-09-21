@@ -26,10 +26,10 @@ export const footerLists = [
 	{
 		title: 'Empresa',
 		items: [
-			{
-				title: 'Sobre',
-				slug: '/company/about',
-			},
+			// {
+			// 	title: 'Sobre',
+			// 	slug: '/company/about',
+			// },
 			{
 				title: 'Blog',
 				slug: '/blog',
